@@ -1,2 +1,2 @@
 <?php
-echo "nhgbfvdc";
+echo "feleke dingato";
